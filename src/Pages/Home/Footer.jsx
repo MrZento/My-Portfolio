@@ -172,7 +172,6 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by John</p>
         <div className="footer--social--icon">
           <ul>
             <li>
