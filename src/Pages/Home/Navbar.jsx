@@ -66,7 +66,7 @@ function Navbar() {
                 offset={-70}
                 duration={500}
                 to="heroSection"
-                className="navbar--content
+                className="navbar--content"
               >
                 Home
               </Link>
